@@ -5,7 +5,8 @@ Rolling dice will generate a random number from 0 - 6. The player with the large
 
 
 ### How to Play
-<li> Reload Site will cause the dice to roll </li> 
+<li> Reloading the website will cause the dice to roll  </li>
+<li> keyboard refresh shortcut <em> CMD + R </em> </li> 
 
 
 Play Here: https://chanqodev.github.io/RollingDiceGame/
