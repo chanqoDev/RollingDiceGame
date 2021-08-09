@@ -1,2 +1,7 @@
-# miniature-guacamole
-This is a Rolling Dice Game
+# Rolling Dice Game
+
+### How to Play
+
+
+#### Languages 
+HTML, CSS, Javascript, DOM.  
